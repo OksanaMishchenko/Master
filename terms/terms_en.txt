@@ -1,0 +1,416 @@
+acid
+acids
+active ingredient
+active ingredient
+active ingredients
+active ingredients
+administration
+administrations
+agent
+agents
+alcohol
+alcohols
+alkenyl
+alkoxy
+alkyl
+alkyl group
+alkyl groups
+alkyl groups
+alkyls
+amino
+amino acid
+amino acid
+amino acid sequence
+amino acid sequence
+amino acid sequence
+amino acid sequences
+amino acid sequences
+amino acids
+amino acids
+antagonist
+antagonists
+antibody
+antigen
+antigens
+antobodies
+apparatus
+aqueous
+aqueous
+aqueous
+arm
+aromatic
+aromatics
+aryl
+aryls
+atom
+atoms
+axis
+bacterium
+bacterium
+beam
+beam
+beams
+beams
+biological
+biological
+biological
+biologicals
+blood
+body
+bond
+bond
+bonds
+bonds
+bone
+bone
+bone
+bone
+cancer
+cancers
+carbon
+carbon atom
+carbon atoms
+carbon atoms
+carbons
+catheter
+catheters
+cavity
+cell
+cells
+chamber
+chamber
+chamber
+chambers
+chambers
+chambers
+coil
+coils
+combination
+combination
+combinations
+component
+component
+components
+components
+composition
+compositions
+compound
+concentration
+concentrations
+copolymer
+copolymers
+core
+core
+core
+core
+cyano
+cycloalkyl
+dental
+dentals
+dentals
+device
+devices
+diagnostic
+diagnostic
+diagnostics
+diameter
+diameters
+disease
+diseases
+disorder
+disorders
+distal
+distal
+distal
+distal end
+distal ends
+distal ends
+dna
+dna sequence
+dna sequence
+dna sequences
+drug
+drugs
+effect
+effective amount
+effects
+electrode
+element
+elements
+energy
+enzyme
+ethyl
+fiber
+filter
+filters
+fluid
+fluid
+formula
+formulas
+fragment
+fragments
+frequencies
+frequency
+gene
+general formula
+general formula
+general formulae
+general formulae
+genes
+halogen
+halogen
+halogen atom
+halogen atoms
+halogen atoms
+halogen atoms
+head
+heart
+heteroaryl
+heterocyclic
+heterocyclic
+host cell
+host cells
+host cells
+human
+human
+humans
+humans
+hydrogen
+hydrogen atom
+hydrogen atoms
+hydroxy
+hydroxyl
+hydroxyls
+implant
+infection
+infections
+inhibitor
+inhibitors
+instrument
+instrument
+lens
+lenses
+liquid
+liquids
+lumen
+magnetic
+mammal
+mammal
+manufacture
+manufacture
+manufacture of medicament
+manufacture of medicament
+manufacture of medicaments
+manufacture of medicaments
+material
+material
+material
+materials
+materials
+materials
+matrix
+medical
+medical
+medicals
+medicals
+medicament
+medicaments
+membrane
+membranes
+metal
+metal
+methyl
+methyl
+microorganism
+microorganism
+microorganisms
+microorganisms
+mixture
+mixture
+moieties
+moieties
+moieties
+moieties
+moiety
+moiety
+moiety
+molecular
+molecular
+molecular weight
+molecular weights
+molecule
+molecules
+monomer
+monomers
+needle
+needle
+needles
+needles
+nitrogen
+nucleic
+nucleic
+nucleic acid
+nucleic acids
+nucleotide
+nucleotides
+oligonucleotide
+oligonucleotides
+optical
+optical
+oral
+oral
+oral
+organic
+organics
+oxygen
+oxygens
+particle
+particles
+patient
+patient
+patients
+patients
+peptide
+peptides
+ph
+pharmaceutical
+pharmaceutical
+pharmaceutical composition
+pharmaceutical compositions
+pharmaceutically acceptable salt
+pharmaceutically acceptable salt
+pharmaceutically acceptable salt
+phenyl
+phenyls
+plant
+plant
+plant
+plant
+plants
+polymer
+polymers
+polynucleotide
+polynucleotides
+polypeptide
+polypeptides
+portion
+portions
+preparation
+preparations
+pressure
+pressures
+prevention
+probe
+probes
+prosthesis
+prosthesis
+protein
+proteins
+pulse
+pulse
+pulse
+pulses
+pump
+radiation
+radiations
+radical
+radical
+radicals
+ratio
+ratio
+receptor
+receptors
+residue
+residue
+residues
+residues
+salt
+sample
+samples
+segment
+segments
+sensor
+sensors
+sequence
+sequences
+sequential
+sequential
+sequential
+sequential
+sequential id
+shaft
+shaft
+shaft
+shafts
+shafts
+shafts
+skin
+skin
+sodium
+solid
+solids
+soluble
+soluble
+solution
+solution
+solvent
+stent
+stent
+stents
+strain
+strains
+structure
+structures
+substance
+substances
+substrate
+substrates
+support
+support
+support
+support
+supports
+surface
+surfaces
+surfactant
+surfactant
+surfactants
+surfactants
+surfactants
+surgical
+surgical
+surgical
+surgical
+syringe
+syringes
+temperature
+temperatures
+therapeutic
+therapies
+therapy
+tissue
+tissues
+treatment
+treatments
+tube
+tubes
+tubular
+tubular
+tumor
+tumor
+tumors
+unsaturated
+unsaturated
+unsaturated
+vaccine
+vaccines
+valve
+valve
+valves
+valves
+vector
+vectors
+vessel
+vessels
+virus
+weight

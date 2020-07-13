@@ -1,0 +1,416 @@
+acide
+acides
+principe actif
+ingrédient actif
+principes actifs
+ingrédients actifs
+administration
+administrations
+agent
+agents
+alcool
+alcools
+alkenyle
+alcoxy
+alkyle
+groupe alkyle
+groupes alkyles
+groupes alkyle
+alkyles
+amino
+amino-acide
+aminoacide
+séquence d'acides aminés
+séquence d'acide aminé
+séquence d'aminoacides
+séquences d'acides aminés
+séquences d'aminoacides
+amino-acides
+aminoacides
+antagoniste
+antagonistes
+anticorps
+antigène
+antigènes
+anticorps
+appareil
+aqueux
+aqueuses
+aqueuse
+bras
+aromatique
+aromatiques
+aryle
+aryles
+atome
+atomes
+axe
+bactérie
+bactéries
+rayon
+faisceau
+faisceaux
+rayons
+biologiques
+bio
+biologique
+biologiques
+sang
+corps
+liaison
+lieur
+lieurs
+liaisons
+osseuse
+osseuses
+os
+osseux
+cancer
+cancers
+carbone
+atome de carbone
+atomes de carbones
+atomes de carbone
+carbones
+cathéter
+cathéters
+cavité
+cellule
+cellules
+compartiment
+chambre
+enceinte
+compartiments
+chambres
+enceintes
+bobine
+bobines
+combinaison
+association
+combinaisons
+élément
+composant
+éléments
+composants
+composition
+compositions
+composécomposée
+concentration
+concentrations
+copolymère
+copolymères
+coeur
+cenral
+âme
+noyau
+cyano
+cycloalkyle
+dentaire
+dentaires
+dentaire
+dispositif
+dispositifs
+diagnostique
+diagnostique
+diagnostiques
+diamètre
+diamètres
+maladie
+maladies
+trouble
+troubles
+distale
+distaux
+distal
+extrémité distale
+extrémités distale
+extrémités distales
+adn
+séquence d'adn
+séquence de adn
+séquences d'adn
+médicament
+médicaments
+effet
+quantité efficace
+effets
+electrode
+élément
+éléments
+energie
+enzyme
+éthyl
+fibre
+filtre
+filtres
+fluides
+fluide
+formule
+formules
+fragment
+fragments
+fréquences
+fréquence
+gène
+formule générale
+formule général
+formules générale
+formules générales
+gènes
+halogènes
+halogène
+atome d'halogène
+atomes d'hydrogène
+atomes d'halogènes
+atomes d'halogène
+tête
+cardiaque
+heteroaryle
+hétérocycliques
+hétérocyclique
+cellule hôte
+cellules hôtes
+cellules hôte
+humaine
+humain
+humains
+humaines
+hydrogène
+atome d'hydrogène
+atomes d'hydrogène
+hydroxy
+hydroxyle
+hydroxyles
+implant
+infection
+infections
+inhibiteur
+inhibiteurs
+instruments
+instrument
+lentille
+lentilles
+liquide
+liquides
+lumière
+magnetique
+mammifères
+mammifère
+préparation
+fabrication
+préparation de médicament
+fabrication de médicament
+préparation de médicaments
+fabrication de médicaments
+matériau
+substance
+matière
+matériaux
+substances
+matières
+matrice
+médicale
+médical
+médicaux
+médicales
+médicament
+médicaments
+membrane
+membranes
+métalliques
+métallique
+méthyles
+méthyle
+micro-organisme
+microorganisme
+microorganismes
+micro-organismes
+mélanges
+mélange
+fractions
+groupes
+parties
+matrices
+groupe
+fraction
+partie
+moléculaires
+moléculaire
+poids moléculaire
+poids moléculaires
+molécule
+molécules
+monomère
+monomères
+aiguille
+seringue
+seringues
+aiguilles
+nitrogène
+nucléiques
+nucléique
+acide nucléique
+acides nucléiques
+nucléotide
+nucléotides
+oligonucléotide
+oligonucléotides
+optiques
+optique
+oraux
+orale
+oral
+organique
+organiques
+oxygène
+oxygènes
+particule
+particules
+patiente
+patient
+patientes
+patients
+peptide
+peptides
+ph
+pharmaceutiques
+pharmaceutique
+composition pharmaceutique
+compositions pharmaceutiques
+sels pharmaceutiquement acceptables
+sel pharmaceutiquement acceptable
+sels acceptables sur le plan pharmaceutique
+phényle
+phényles
+végétale
+végétaux
+végétal
+plante
+plantes
+polymère
+polymères
+polynucléotide
+polynucléotides
+polypeptide
+polypeptides
+portion
+portions
+préparation
+préparations
+pression
+pressions
+prévention
+sonde
+sondes
+prothèses
+prothèse
+protéine
+protéines
+pulsations
+pulsation
+impulsion
+impulsions
+pompe
+radiation
+radiations
+radicale
+radical
+radicaux
+ratio
+rapport
+récepteur
+récepteurs
+reste
+résidu
+résidus
+restes
+sel
+échantillon
+échantillons
+segment
+segments
+capteur
+capteurs
+séquence
+séquences
+séquentiels
+séquentielle
+séquentielles
+séquentiel
+id de séquence
+arbre
+chariot
+tige
+tiges
+arbres
+chariots
+peaux
+peau
+sodium
+solide
+solides
+soluble
+solubles
+solutions
+solution
+solvant
+prothèse
+stent
+prothèses
+souche
+souches
+structure
+structures
+substance
+substances
+substrat
+substrats
+support
+supporte
+supportent
+supporter
+supports
+surface
+surfaces
+agent tensio-actif
+tensio-actif
+surfactants
+agents tensio-actifs
+tensio-actifs
+chirurgicaux
+chirurgicales
+chirurgicale
+chirurgical
+seringue
+seringues
+température
+températures
+thérapeutiquethérapeutiques
+thérapies
+thérapie
+tissu
+tissus
+traitement
+traitements
+tube
+tubes
+tubulaires
+tubulaire
+tumeur
+tumor
+tumeurs
+insaturé
+insaturés
+insaturées
+vaccin
+vaccins
+soupape
+valvule
+valvules
+soupapes
+vecteur
+vecteurs
+récipient
+récipients
+virus
+poids
